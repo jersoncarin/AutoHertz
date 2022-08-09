@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AutoHertz</string>
+    <string name="accessibility_service_description">Monitor the current refresh rate of the app and change it.</string>
+</resources>
